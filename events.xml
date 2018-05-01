@@ -8,7 +8,7 @@
     <startDate>2018-07-09</startDate>
     <endDate>2018-07-13</endDate>
     <timeOffset>03:00</timeOffset>
-    <lastModifiedDate>2018-04-28 15:19</lastModifiedDate>
+    <lastModifiedDate>2018-04-28 15:19 +00:00</lastModifiedDate>
   </event>
   <event>
     <id>681549</id>
@@ -19,6 +19,6 @@
     <startDate>2018-06-04</startDate>
     <endDate>2018-06-09</endDate>
     <timeOffset>02:00</timeOffset>
-    <lastModifiedDate>2018-05-01 07:17</lastModifiedDate>
+    <lastModifiedDate>2018-05-01 07:17 +00:00</lastModifiedDate>
   </event>
 </events>
