@@ -1,6 +1,10 @@
 <hepcon>
   <notifications>
     <notification>
+      <date>2018-04-30T19:20:30</date>
+      <text>Announce 1!</text>
+    </notification>
+    <notification>
       <date>2018-03-14T19:20:30</date>
       <text>Welcome to LHCP 2018!</text>
     </notification>
