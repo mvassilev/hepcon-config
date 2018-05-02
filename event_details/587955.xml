@@ -1,6 +1,10 @@
 <hepcon>
   <notifications>
     <notification>
+      <date>2018-05-02T07:20:30</date>
+      <text>Test Announcement12</text>
+    </notification>
+    <notification>
       <date>2018-05-01T12:20:30</date>
       <text>Test Announcement11</text>
     </notification>
