@@ -37,21 +37,21 @@
       <image>http://lhcp2018.bo.infn.it/images/alma-mater_25.png</image>
       <description>Alma Mater Studiorum Universita Di Bologna.</description>
       <website>http://www.unibo.it/en</website>
-      <level>1</level>
+      <tag>tag1</tag>
     </sponsor>
     <sponsor>
       <name>Istituto Nazionale di Fisica Nucleare</name>
       <image>http://lhcp2018.bo.infn.it/images/logo_infn.jpg</image>
       <description>Istituto Nazionale di Fisica Nucleare</description>
       <website>http://home.infn.it/en/</website>
-      <level>1</level>
+      <tag>tag2</tag>
     </sponsor>
     <sponsor>
       <name>CERN</name>
       <image>http://lhcp2018.bo.infn.it/images/cern-logo.png</image>
       <description>CERN</description>
       <website>https://home.cern/</website>
-      <level>1</level>
+      <tag>tag3</tag>
     </sponsor>
   </sponsors>
   <floors>
