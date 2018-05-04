@@ -33,18 +33,18 @@
   </venueLocations>
   <sponsors>
     <sponsor>
-      <name>Alma Mater Studiorum Universita Di Bologna</name>
-      <image>http://lhcp2018.bo.infn.it/images/alma-mater_25.png</image>
-      <description>Alma Mater Studiorum Universita Di Bologna.</description>
-      <website>http://www.unibo.it/en</website>
-      <tag>tag1</tag>
-    </sponsor>
-    <sponsor>
       <name>Istituto Nazionale di Fisica Nucleare</name>
       <image>http://lhcp2018.bo.infn.it/images/logo_infn.jpg</image>
       <description>Istituto Nazionale di Fisica Nucleare</description>
       <website>http://home.infn.it/en/</website>
       <tag>tag2</tag>
+    </sponsor>
+    <sponsor>
+      <name>Alma Mater Studiorum Universita Di Bologna</name>
+      <image>http://lhcp2018.bo.infn.it/images/alma-mater_25.png</image>
+      <description>Alma Mater Studiorum Universita Di Bologna.</description>
+      <website>http://www.unibo.it/en</website>
+      <tag>tag1</tag>
     </sponsor>
     <sponsor>
       <name>CERN</name>
