@@ -4,6 +4,10 @@
   <notifications>
     <notification>
       <date>2018-05-27T17:20:30</date>
+      <text>awesome2!</text>
+    </notification>
+    <notification>
+      <date>2018-05-27T17:20:30</date>
       <text>awesome!</text>
     </notification>
     <notification>
