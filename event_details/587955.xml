@@ -59,6 +59,13 @@
       <website>http://chep2018.org</website>
       <tag>Example Tag 1</tag>
     </sponsor>
+    <sponsor>
+      <name>Test Sponsor2</name>
+      <image>http://chep2018.org/sites/default/files/ndk-logo-black.png</image>
+      <description>Test Sponsor2</description>
+      <website>http://chep2018.org</website>
+      <tag>Example Tag 2</tag>
+    </sponsor>
   </sponsors>
   <floors>
     <floor>
