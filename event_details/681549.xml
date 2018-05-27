@@ -21,7 +21,21 @@
       <address>Piazza Santo Stefano, Bologna, Italy</address>
       <latitude>44.492431</latitude>
       <longitude>11.348294</longitude>
-    </venueLocation>    
+    </venueLocation>
+    <venueLocation>
+      <title>Outreach Event (in Italian)</title>
+      <activity>Aula Magna Santa Lucia</activity>
+      <address>Via Castiglione 37, Bologna, Italy</address>
+      <latitude>44.4895534</latitude>
+      <longitude>11.3476291</longitude>
+    </venueLocation>
+    <venueLocation>
+      <title>Time Machine</title>
+      <activity>Virtual reality tour through Bologna's Middle Ages</activity>
+      <address>Via Zamboni 7, Bologna, Italy</address>
+      <latitude>44.4949626</latitude>
+      <longitude>11.3474478</longitude>
+    </venueLocation>  
   </venueLocations>
   <sponsors>
     <sponsor>
@@ -29,88 +43,103 @@
       <image>http://lhcp2018.bo.infn.it/images/alma-mater_25.png</image>
       <description>Alma Mater Studiorum Universita Di Bologna.</description>
       <website>http://www.unibo.it/en</website>
-      <tag>Example Tag 1</tag>
+      <level>1</level>
+      <tag>Co-organizing Institution</tag>
     </sponsor>
     <sponsor>
       <name>Istituto Nazionale di Fisica Nucleare</name>
       <image>http://lhcp2018.bo.infn.it/images/logo_infn.jpg</image>
       <description>Istituto Nazionale di Fisica Nucleare</description>
       <website>http://home.infn.it/en/</website>
-      <tag>Example Tag 2</tag>
+      <level>1</level>
+      <tag>Co-organizing Institution</tag>
     </sponsor>
     <sponsor>
       <name>CERN</name>
       <image>http://lhcp2018.bo.infn.it/images/cern-logo.png</image>
       <description>CERN</description>
       <website>https://home.cern/</website>
-      <tag>Example Tag 3</tag>
+      <level>1</level>
+      <tag>Co-organizing Institution</tag>
     </sponsor>
-     <sponsor>
+    <sponsor>
       <name>Centro Fermi</name>
       <image>http://lhcp2018.bo.infn.it/images/logo_centrofermi.png</image>
       <description>Centro Fermi</description>
       <website>https://www.centrofermi.it/</website>
-      <tag>Example Tag 1</tag>
+      <level>1</level>
+      <tag>Supporting Institution</tag>
     </sponsor>
     <sponsor>
       <name>European Physical Journal (EPJ)</name>
       <image>http://lhcp2018.bo.infn.it/images/1200px-EPJ.png</image>
       <description>European Physical Journal (EPJ)</description>
       <website>https://www.epj.org/</website>
-      <tag>Example Tag 1</tag>
+      <level>1</level>
+      <tag>Supporting Institution</tag>
     </sponsor>
     <sponsor>
       <name>International Union of Pure and Applied Physics (IUPAP)</name>
       <image>http://lhcp2018.bo.infn.it/images/IUPAPLOGOBlue.jpg</image>
       <description>International Union of Pure and Applied Physics (IUPAP)</description>
       <website>http://iupap.org/</website>
-      <tag>Example Tag 1</tag>
+      <level>1</level>
+      <tag>Supporting Institution</tag>
     </sponsor>
     <sponsor>
       <name>Societa' Italiana di Fisica (SIF)</name>
       <image>http://lhcp2018.bo.infn.it/images/SocietaItalianaFisicaCover.jpg</image>
       <description>Societa' Italiana di Fisica (SIF)</description>
       <website>https://en.sif.it/</website>
-      <tag>Example Tag 1</tag>
+      <level>1</level>
+      <tag>Supporting Institution</tag>
     </sponsor>
-     <sponsor>
+    <sponsor>
       <name>Associazione Franco Rimondi</name>
       <image>http://lhcp2018.bo.infn.it/images/RimondiLogo.png</image>
       <description>Associazione Franco Rimondi</description>
       <website>https://sites.google.com/associazionefr.org/eng/home</website>
-      <tag>Example Tag 1</tag>
+      <level>1</level>
+      <tag>Supporting Institution</tag>
     </sponsor>
     <sponsor>
       <name>CAEN</name>
       <image>http://lhcp2018.bo.infn.it/images/caen.jpg</image>
       <description>CAEN</description>
       <website>http://www.caen.it/</website>
-      <tag>Example Tag 1</tag>
+      <level>1</level>
+      <tag>Technical Sponsor</tag>
     </sponsor>
     <sponsor>
       <name>Link</name>
       <image>http://lhcp2018.bo.infn.it/images/linkengineering.jpg</image>
       <description>Link</description>
       <website>http://www.linkengineering.it/</website>
-      <tag>Example Tag 1</tag>
+      <level>1</level>
+      <tag>Technical Sponsor</tag>
     </sponsor>
     <sponsor>
       <name>OCEM</name>
       <image>http://lhcp2018.bo.infn.it/images/OCEM-Logo.jpg</image>
       <description>OCEM</description>
       <website>https://ocem.com/</website>
-      <tag>Example Tag 1</tag>
+      <level>1</level>
+      <tag>Technical Sponsor</tag>
     </sponsor>
   </sponsors>
   <floors>
     <floor>
-      <title>Bologna Test Floor Map</title>
-      <mapUrl>http://chep2018.org/sites/default/files/Level8.png</mapUrl>
+      <title>Ground Floor Map</title>
+      <mapUrl>http://lhcp2018.bo.infn.it/images/PianoTerra.jpeg</mapUrl>
+    </floor>
+    <floor>
+      <title>First Floor Map</title>
+      <mapUrl>http://lhcp2018.bo.infn.it/images/PianoAlto.jpeg</mapUrl>
     </floor>
   </floors>
   <wifi>
-    <ssid>LHCPCon</ssid>
-    <password>LHCPCon2018</password>
+    <ssid>eduroam</ssid>
+    <password>*******</password>
   </wifi>
   <twitterHashtag>#LHCP2018</twitterHashtag>
   <iacPersons>
@@ -183,12 +212,20 @@
       <subtitle>Lund Univ.</subtitle>
     </iacPerson>
     <iacPerson>
-      <name>Guenakh Mitselmakher</name>
+      <name>Guenakh Mitselmakher (IAC Chair)</name>
       <subtitle>Univ. of Florida</subtitle>
     </iacPerson>
     <iacPerson>
       <name>Paolo Nason</name>
       <subtitle>INFN, Milano Bicocca</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Aleandro Nisati (International Conference Co-Chair)</name>
+      <subtitle>INFN, Roma 1</subtitle>
+    </iacPerson>
+    <iacPerson>
+      <name>Jim Olsen (International Conference Co-Chair)</name>
+      <subtitle>Princeton University</subtitle>
     </iacPerson>
     <iacPerson>
       <name>Giovanni Passaleva</name>
@@ -246,11 +283,11 @@
       <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Pietro Antonioli</name>
+      <name>Pietro Antonioli (Co-Chair)</name>
       <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Lorenzo Bellagamba</name>
+      <name>Lorenzo Bellagamba (Scientific Secretary)</name>
       <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
@@ -258,7 +295,7 @@
       <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Angelo Carbone</name>
+      <name>Angelo Carbone (Scientific Secretary)</name>
       <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
@@ -278,7 +315,7 @@
       <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
-      <name>Paolo Giacomelli</name>
+      <name>Paolo Giacomelli (Co-Chair)</name>
       <subtitle>INFN, Bologna</subtitle>
     </locPerson>
     <locPerson>
@@ -318,5 +355,8 @@
       <subtitle>Univ. &amp; INFN, Bologna</subtitle>
     </locPerson>
   </locPersons>
-  <codeConduct>TODO: Code Of Conduct LHCP 2018</codeConduct>
+  <codeConduct>
+    It is the policy of the conference as sponsored by the International Union of Pure and Applied Physics (IUPAP) that all participants in Union activities will enjoy an environment which encourages the free expression and exchange of scientific ideas, and is free from all forms of discrimination, harassment, and retaliation. The conference organizers have identified one advisor (Paolo Giacomelli &lt;paolo.giacomelli@bo.infn.it&gt;) who will consult with those who have suffered from harassment and will suggest ways of redressing their problems, and another (Jim Olsen &lt;jolsen@princeton.edu&gt;) who will counsel those accused of harassment. The conference organisers may, after due consideration, take such action they deem appropriate, including warning or expulsion from the conference without refund.
+    If you feel that you have suffered from harassment while attending this conference, please contact Paolo Giacomelli paolo.giacomelli@bo.infn.it.
+   </codeConduct>
 </hepcon>
