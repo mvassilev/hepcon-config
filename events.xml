@@ -12,7 +12,7 @@
   </event>
   <event>
     <id>681549</id>
-    <details>https://raw.githubusercontent.com/mvassilev/hepcon-config/master/event_details/681549.xml</details>
+    <details>https://github.com/lbellagamba/hepcon-config/blob/9f3cca25b15185b9c69e2b5bf38bd68d42ffbf75/event_details/681549.xml</details>
     <url>https://indico.cern.ch/export/timetable/681549.xml</url>
     <name>LHCP 2018</name>
     <location>Bologna</location>
