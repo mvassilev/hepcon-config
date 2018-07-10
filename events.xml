@@ -1,7 +1,7 @@
 <events>
   <event>
     <id>587955</id>
-    <details>https://raw.githubusercontent.com/gordonwatts/hepcon-config/b60f42053055edd0f1684ef813c5c005ac306954/event_details/587955.xml</details>
+    <details>https://raw.githubusercontent.com/mvassilev/hepcon-config/master/event_details/587955.xml</details>
     <url>https://indico.cern.ch/export/timetable/587955.xml</url>
     <name>CHEP 2018</name>
     <location>Sofia</location>
